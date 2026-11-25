@@ -1,0 +1,20 @@
+# OS / editor
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+# Quartus / ModelSim
+db/
+incremental_db/
+output_files/
+simulation/
+work/
+*.qws
+*.rpt
+*.summary
+*.smsg
+*.done
+*.sof
+*.pof
+*.wlf
+transcript
